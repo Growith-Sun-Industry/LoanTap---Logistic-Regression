@@ -29,7 +29,8 @@ Given a set of attributes for an individual:
 ## Dataset
 
 - **Dataset Name:** `LoanTapData.csv`
-- **Dataset Link:** `https://drive.google.com/file/d/1ZPYj7CZCfxntE8p2Lze_4QO4MyEOy6_d/view`
+- **Dataset Link:** [LoanTap Dataset](https://drive.google.com/file/d/1ZPYj7CZCfxntE8p2Lze_4QO4MyEOy6_d/view)
+
 ---
 
 ## Data Dictionary
